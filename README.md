@@ -81,10 +81,10 @@ _Add screenshots of the following here:_
 - <img width="1109" height="776" alt="image" src="https://github.com/user-attachments/assets/df32ee02-60cc-49ea-8885-934b3694ea37" />
 
 - Dashboard (Light Mode)
-- <img width="1880" height="869" alt="image" src="https://github.com/user-attachments/assets/6df235ec-b10a-4c73-929b-d327494196eb" />
+- <img width="1869" height="841" alt="image" src="https://github.com/user-attachments/assets/c62d9568-6b65-43e5-a66f-f12db91ea1b6" />
 
 - Dashboard (Dark Mode)
-- <img width="1869" height="841" alt="image" src="https://github.com/user-attachments/assets/c62d9568-6b65-43e5-a66f-f12db91ea1b6" />
+- <img width="1880" height="869" alt="image" src="https://github.com/user-attachments/assets/6df235ec-b10a-4c73-929b-d327494196eb" />
 
 - Kanban Board
 - <img width="1880" height="869" alt="image" src="https://github.com/user-attachments/assets/3a82fb5d-a7c0-40ba-8311-40a51baab463" />
