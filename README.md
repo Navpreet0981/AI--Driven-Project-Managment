@@ -73,7 +73,6 @@ The **AI-Driven Project Management System** is a full-stack MERN application des
 
 ## 📸 Screenshots
 
-_Add screenshots of the following here:_
 - Login Page
 - <img width="1221" height="827" alt="image" src="https://github.com/user-attachments/assets/0a3e6cf9-9020-4d95-89df-e002ce15bf1f" />
 
